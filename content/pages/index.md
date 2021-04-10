@@ -11,9 +11,6 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
     image: images/photo-1540866225557-9e4c58100c67.jpg
     image_alt: Hero section placeholder image
     media_position: left
