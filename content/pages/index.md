@@ -7,10 +7,7 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
+    actions: []
     image: images/photo-1540866225557-9e4c58100c67.jpg
     image_alt: Hero section placeholder image
     media_position: left
